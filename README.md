@@ -27,7 +27,7 @@ I'm a **full-stack developer** with expertise in **Flutter**, **React Native**, 
 
 ## ✨ Contributions & Projects I'm Proud Of
 
-- 🚀 Built several cross-platform mobile apps in two major cross plateform frmeworks.      
+- 🚀 Built several cross-platform mobile apps in two major cross plateform frameworks.      
 
 ---
 
