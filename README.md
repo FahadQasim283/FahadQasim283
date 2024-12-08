@@ -7,8 +7,7 @@ I'm a **full-stack developer** with expertise in **Flutter**, **React Native**, 
 ## 🚀 About Me
 
 - 💻 **Skills**:  
-  - 🛠 **Mobile Development**: Flutter, React Native  
-  - 🌐 **Web Development**: HTML, CSS, JavaScript, PHP, Laravel  
+  - 🛠 **Mobile Development**: Flutter,   
   - 📱 **Cross-Platform Development**  
   - 🗂 **Backend Services**: REST APIs, Database Design  
   - 🔒 **Focus**: Scalable architectures, clean code practices  
@@ -20,8 +19,10 @@ I'm a **full-stack developer** with expertise in **Flutter**, **React Native**, 
 
 - 🌱 **Currently Exploring**:  
   - Advanced state management in Flutter  
-  - Serverless architectures  
-  - AI integration in mobile and web applications  
+  - AI integration in Flutter
+  - React Native,
+  - Web development  
+  - PHP, Laravel
 
 ---
 
