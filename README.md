@@ -1,6 +1,7 @@
 # 👋 Hi there! Welcome to my GitHub profile!
 
-I'm a **full-stack developer** with expertise in **Flutter**, **React Native**, **PHP Laravel**, and **web development**. I’m passionate about building intuitive, scalable, and efficient solutions to real-world problems.
+I'm a **Mobile App Developer** with expertise in **Flutter**. I’m passionate about building intuitive, scalable, and efficient solutions to real-world problems.
+Currently i am working on **React Native**, **PHP Laravel**, and **web development**
 
 ---
 
