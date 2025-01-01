@@ -21,9 +21,6 @@ Currently i am working on **React Native**, **PHP Laravel**, and **web developme
 - 🌱 **Currently Exploring**:  
   - Advanced state management in Flutter  
   - AI integration in Flutter
-  - React Native,
-  - Web development  
-  - PHP, Laravel
 
 ---
 
