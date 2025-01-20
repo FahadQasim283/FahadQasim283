@@ -62,7 +62,7 @@ I am proud to showcase my GitHub accomplishments.
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=dracula&layout=compact&langs_count=20&card_width=445&hide_progress=false&hide=none" alt="Language Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=dark&layout=compact&langs_count=20&card_width=445&hide_progress=false&hide=none" alt="Language Stats" />
 </p>
 
 <p align="center">
