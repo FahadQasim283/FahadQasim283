@@ -78,13 +78,9 @@ I am proud to showcase my GitHub accomplishments.
   </div>
 </p>
 
-## My GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FahadQasim283&theme=dark)
-
 
 ## ✨ Contributions & Projects I'm Proud Of
-- 🚀 Built several cross-platform mobile apps in two major cross-platform frameworks.      
+- 🚀 Built several cross-platform mobile apps for my local and international clients.      
 
 ## 🤝 How to Reach Me
 - 📧 **Email**: [fahadqasim3310@mail.com](mailto:fahadqasim3310@mail.com)
