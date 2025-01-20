@@ -7,7 +7,7 @@ Currently I am working on **Backend development**
 
 I am proud to showcase my GitHub accomplishments.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FahadQasim283&theme=dracula&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FahadQasim283&theme=dracula&margin-w=15&margin-h=15&no-frame=true&no-bg=true)]
 
 
 ## 🚀 About Me
