@@ -62,17 +62,10 @@ I am proud to showcase my GitHub accomplishments.
 
 ## 📊 GitHub Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=dark&layout=compact&langs_count=20&card_width=445&hide_progress=false&hide=none" alt="Language Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=dracula&line_height=27&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=dracula&line_height=27" alt="GitHub Stats" />
-</p>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=dark&count_private=true&line_height=27&hide_rank=false&custom_title=My%20GitHub%20Statistics&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats Extended" />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=dark&layout=compact&langs_count=20&card_width=445&hide_progress=false&hide=none" alt="Language Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=dark&count_private=true&line_height=27&hide_rank=false&custom_title=My%20GitHub%20Statistics&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats Extended" />
+  </div>
 </p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadQasim283&theme=dracula" alt="GitHub Streak" />
 
