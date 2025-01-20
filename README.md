@@ -87,8 +87,8 @@ I am proud to showcase my GitHub accomplishments.
 - 🚀 Built several cross-platform mobile apps in two major cross-platform frameworks.      
 
 ## 🤝 How to Reach Me
-- 📫 **Email**: [fahadqasim3310@mail.com]  
-- 💼 **LinkedIn**: [www.linkedin.com/in/fahad-qasim-6926b3270]   
+- <a href="mailto:fahadqasim3310@mail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="email" width="30" height="30"/> **Email**</a>
+- <a href="https://www.linkedin.com/in/fahad-qasim-6926b3270"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/> **LinkedIn**</a>
 
 ## 🛠 Get Involved & Collaborate
 I'm always looking to collaborate on innovative projects. If you have an idea, let's discuss and build something impactful together!
