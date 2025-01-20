@@ -6,7 +6,10 @@ Currently I am working on **Backend development**
 ## 🏆 GitHub Achievements
 
 I am proud to showcase my GitHub accomplishments.
-![trophy](https://github-profile-trophy.vercel.app/?username=FahadQasim283&theme=juicyfresh&margin-w=15&column=5&margin-h=15&no-frame=true&no-bg=true)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FahadQasim283&theme=juicyfresh&margin-w=15&column=5&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies">
+</div>
 
 ## 🚀 About Me
 - 💻 **Skills**:  
