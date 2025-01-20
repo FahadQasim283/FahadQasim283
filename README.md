@@ -3,6 +3,8 @@
 I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
 Currently I am working on **Backend development**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=gruvbox&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🚀 About Me
 - 💻 **Skills**:  
   - 🛠 **Mobile Development**: Flutter   
