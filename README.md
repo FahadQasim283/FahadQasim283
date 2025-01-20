@@ -27,6 +27,22 @@ I am proud to showcase my GitHub accomplishments.
   - Golang
   - Node Js
 
+## 💼 Professional Experience
+- **Mobile App Development**
+  - Flutter app development with clean architecture
+  - Basic React Native development
+  - UI/UX implementation
+  - State management using Provider, riverpod
+
+- **Web Development**
+  - Frontend development using HTML, CSS, JavaScript
+  - Basic PHP development
+
+- **Backend Development**
+  - REST API development
+  - Database design and implementation
+  - Currently exploring Node.js and Golang
+
 ## 🛠 Technologies & Tools
 <p align="left">
 <!-- Mobile Development -->
@@ -53,23 +69,6 @@ I am proud to showcase my GitHub accomplishments.
 </a>
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="androidstudio" width="40" height="40"/> </a>
 </p>
-
-
-## 💼 Professional Experience
-- **Mobile App Development**
-  - Flutter app development with clean architecture
-  - React Native development experience
-  - UI/UX implementation
-  - State management using Provider, Bloc, and GetX
-
-- **Web Development**
-  - Frontend development using HTML, CSS, JavaScript
-  - Basic PHP development
-
-- **Backend Development**
-  - REST API development
-  - Database design and implementation
-  - Currently exploring Node.js and Golang
 
 ## 📊 GitHub Statistics
 <p align="center">
