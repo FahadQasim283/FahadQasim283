@@ -65,7 +65,6 @@ I am proud to showcase my GitHub accomplishments.
 - **Web Development**
   - Frontend development using HTML, CSS, JavaScript
   - Basic PHP development
-  - React.js fundamentals
 
 - **Backend Development**
   - REST API development
@@ -79,7 +78,11 @@ I am proud to showcase my GitHub accomplishments.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=dark&layout=compact&langs_count=20&card_width=445&hide_progress=false&hide=none" alt="Language Stats" />
   </div>
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadQasim283&theme=dracula" alt="GitHub Streak" />
+
+## My GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FahadQasim283&theme=dark)
+
 
 ## ✨ Contributions & Projects I'm Proud Of
 - 🚀 Built several cross-platform mobile apps in two major cross-platform frameworks.      
