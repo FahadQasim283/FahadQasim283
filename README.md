@@ -16,7 +16,7 @@ Currently I am working on **Backend development**
 - 🌱 **Currently Exploring**:  
   - Advanced state management in Flutter  
   - AI integration in Flutter
-  - GOLANG
+  - Golang
   - Node Js
 
 ## 🛠 Technologies & Tools
