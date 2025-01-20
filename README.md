@@ -1,4 +1,4 @@
-# Hi👋 I am Fahad Qasim
+<h1 align='center'>Hi👋 I am Fahad Qasim</h1>
 
 I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
 Currently I am working on **Backend development**
