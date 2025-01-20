@@ -67,6 +67,7 @@ Currently I am working on **Backend development**
 <img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=dracula&count_private=true&line_height=27&hide_rank=false&custom_title=My%20GitHub%20Statistics&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats Extended" />
 </p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadQasim283&theme=dracula" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=dracula&layout=compact&langs_count=20&card_width=445&hide_progress=false&hide=none" alt="Top Languages" />
 ## ✨ Contributions & Projects I'm Proud Of
 - 🚀 Built several cross-platform mobile apps in two major cross-platform frameworks.      
 
