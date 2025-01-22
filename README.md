@@ -44,6 +44,8 @@ I am proud to showcase my GitHub accomplishments.
 
 - **Backend Development**
   - REST API development
+  - Firebase realtime DB
+  - Firebase Firestore
   - Database design and implementation
   - Currently exploring Node.js and Golang
 
