@@ -5,7 +5,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=tokyonight" alt="Vertical Layout" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=highcontrast&layout=compact&border_radius=10" alt="Rounded Stats Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&bg_color=000000&text_color=FFFFFF&title_color=FF5733&border_color=FF5733&layout=compact" alt="Custom Colors" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&bg_color=000000&text_color=FFFFFF&title_color=FF5733&border_color=FF5733&layout=full" alt="Custom Colors" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=gruvbox&layout=compact" alt="Compact Language Stats" />
 
 
