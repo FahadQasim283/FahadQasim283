@@ -1,6 +1,6 @@
 <h1 align='center'>Hi👋 I am Fahad Qasim</h1>
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg=none" alt="Dev Quote" />
 </p>
 
 
