@@ -1,9 +1,8 @@
 <h1 align='center'>Hi👋 I am Fahad Qasim</h1>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg=#1a2b3c" alt="Gradient Background Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&bg=transparent&quote=Time+does+not+wait,+act+now+or+watch+it+slip+away&author=Fahad Qasim" alt="Custom Quote" />
 </p>
-</p>
-</p>
+
 
  I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
 Currently I am working on **Backend development**
