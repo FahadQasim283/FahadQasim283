@@ -18,7 +18,7 @@ I am proud to showcase my GitHub accomplishments.
 ## 🚀 About Me
 - 💻 **Skills**:  
   - 🛠 **Mobile Development**: Flutter   
-  - 📱 **Cross-Platform Development**  
+  - 📱 **Cross-Platform Development**: Flutter
   - 🗂 **Backend Services**: REST APIs, Database Design  
   - 🔒 **Focus**: Scalable architectures, clean code practices  
 - 🎯 **Interests**:  
