@@ -3,7 +3,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg=transparent" alt="Dev Quote" />
 </p>
 
-
  I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
 Currently I am working on **Backend development**
 
