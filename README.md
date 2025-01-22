@@ -27,8 +27,8 @@ I am proud to showcase my GitHub accomplishments.
 - 🌱 **Currently Exploring**:  
   - Advanced state management in Flutter  
   - AI integration in Flutter
-  - Golang
   - Node Js
+  - Golang
 
 ## 💼 Professional Experience
 - **Mobile App Development**
