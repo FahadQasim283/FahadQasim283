@@ -1,6 +1,6 @@
 <h1 align='center'>Hi👋 I am Fahad Qasim</h1>
 <p align="center">
-  <img src="https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile" alt="Header Banner" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 
@@ -82,7 +82,6 @@ I am proud to showcase my GitHub accomplishments.
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 ![Snake animation](https://github.com/FahadQasim283/FahadQasim283/blob/output/github-contribution-grid-snake.svg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FahadQasim283&repo=your-repo-name&theme=dark)](https://github.com/FahadQasim283/your-repo-name)
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FahadQasim283&theme=github-dark" alt="GitHub Activity Graph" />
