@@ -3,12 +3,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg=transparent" alt="Dev Quote" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=tokyonight" alt="Vertical Layout" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=highcontrast&layout=compact&border_radius=10" alt="Rounded Stats Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&bg_color=000000&text_color=FFFFFF&title_color=FF5733&border_color=FF5733" alt="Custom Colors" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=gruvbox&layout=compact" alt="Compact Language Stats" />
-
-
 
  I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
 Currently I am working on **Backend development**
@@ -84,7 +78,9 @@ I am proud to showcase my GitHub accomplishments.
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=dark&count_private=true&line_height=27&hide_rank=false&custom_title=My%20GitHub%20Statistics&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats Extended" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&theme=dark&layout=compact&langs_count=20&card_width=445&hide_progress=false&hide=none" alt="Language Stats" />
+    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&langs_count=20&hide=none&bg_color=000000&text_color=FFFFFF&title_color=FF5733&border_color=FF5733" alt="Custom Colors" />
+
   </div>
 </p>
 
