@@ -1,9 +1,10 @@
 <h1 align='center'>Hi👋 I am Fahad Qasim</h1>
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg=transparent" alt="Dev Quote" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
-
-
 I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
 Currently I am working on **Backend development**
 
@@ -74,14 +75,6 @@ I am proud to showcase my GitHub accomplishments.
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="androidstudio" width="40" height="40"/> </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=FahadQasim283&theme=dark" alt="Wakatime Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadQasim283&theme=dark" alt="GitHub Streak Stats" />
-<p align="center">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-</p>
 ![Snake animation](https://github.com/FahadQasim283/FahadQasim283/blob/output/github-contribution-grid-snake.svg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FahadQasim283&repo=your-repo-name&theme=dark)](https://github.com/FahadQasim283/your-repo-name)
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FahadQasim283&theme=github-dark" alt="GitHub Activity Graph" />
