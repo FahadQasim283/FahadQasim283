@@ -1,6 +1,7 @@
 <h1 align='center'>Hi👋 I am Fahad Qasim</h1>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg=transparent" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&bg=#1e293b" alt="Vertical Dev Quote" />
+</p>
 </p>
 
  I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
