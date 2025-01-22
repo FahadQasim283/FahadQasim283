@@ -1,10 +1,4 @@
 <h1 align='center'>Hi👋 I am Fahad Qasim</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-</p>
 I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
 Currently I am working on **Backend development**
 
