@@ -71,7 +71,7 @@ I am proud to showcase my GitHub accomplishments.
 </p>
 
 <img src='https://github.com/FahadQasim283/FahadQasim283/blob/output/github-contribution-grid-snake.svg'/>
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=FahadQasim283&repo=moviewebsite&theme=dark'
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=FahadQasim283&repo=movie-website&theme=dark'
 />
 
 ## 📊 GitHub Statistics
