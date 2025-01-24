@@ -81,8 +81,7 @@ I am proud to showcase my GitHub accomplishments.
     <img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=dark&count_private=true&line_height=27&hide_rank=false&custom_title=My%20GitHub%20Statistics&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats Extended" />
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&langs_count=20&hide=none&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFA500&border_color=FFA500" alt="Custom Colors" />
-
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainwen9&" alt="zainwen9" />
   </div>
 </p>
 
