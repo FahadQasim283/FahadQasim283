@@ -1,10 +1,16 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Qasim;Mobile+App+Developer;Flutter+Expert;Backend+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<div align='top-right'>
-  
-![Profile Views](https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&label=PROFILE+VIEWS)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h1>
+          <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Qasim;Mobile+App+Developer;Flutter+Expert;Backend+Enthusiast&family=Chakra+Petch:wght@400;700&google_fonts=Chakra+Petch" alt="Typing SVG" />
+        </h1>
+      </td>
+      <td align="right">
+        ![Profile Views](https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&label=PROFILE+VIEWS&style=flat-square)
+      </td>
+    </tr>
+  </table>
 </div>
 
 <p align="center">
