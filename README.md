@@ -40,19 +40,44 @@
 </div>
 
 ## 🚀 About Me
-```diff
-+ 𝙈𝙤𝙗𝙞𝙡𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩: Flutter | Dart | React Native
-! 𝘽𝙖𝙘𝙠𝙚𝙣𝙙 𝙎𝙚𝙧𝙫𝙞𝙘𝙚𝙨: Node.js | Golang | REST APIs | Firebase
-# 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩: HTML/CSS | JavaScript | PHP
-- 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙈𝙖𝙣𝙖𝙜𝙚𝙢𝙚𝙣𝙩: MySQL | PostgreSQL | MongoDB
-+ Advanced State Management in Flutter
-! AI/ML Integration in Mobile Apps
-# Backend Development with Node.js & Golang
-- Cloud Architecture & Microservices
-```
-📬 Connect With Me
+- 💻 **Skills**:  
+  - 🛠 **Mobile Development**: Flutter   
+  - 📱 **Cross-Platform Development**: Flutter
+  - 🗂 **Backend Services**: REST APIs, Database Design  
+  - 🔒 **Focus**: Scalable architectures, clean code practices  
+- 🎯 **Interests**:  
+  - Building hybrid mobile applications  
+  - Developing web platforms that provide seamless user experiences  
+  - Collaborating on open-source projects  
+- 🌱 **Currently Exploring**:  
+  - Advanced state management in Flutter  
+  - AI integration in Flutter
+  - Node Js
+  - Golang
+
+## 💼 Professional Experience
+- **Mobile App Development**
+  - Flutter app development with clean architecture
+  - Basic React Native development
+  - UI/UX implementation
+  - State management using Provider, riverpod
+
+- **Web Development**
+  - Frontend development using HTML, CSS, JavaScript
+  - Basic PHP development
+
+- **Backend Development**
+  - REST API development
+  - Firebase realtime DB
+  - Firebase Firestore
+  - Database design and implementation
+  - Currently exploring Node.js and Golang
+
+
+## 📬 Connect With Me
 <p align="center"> <a href="mailto:fahadqasim3310@mail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/fahad-qasim-6926b3270"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/FahadQasim283"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-🔥 Recent Highlights
+
+##🔥 Recent Highlights
 🚀 Developed production-grade Flutter applications
 
 📱 Implemented complex UI/UX designs with animations
