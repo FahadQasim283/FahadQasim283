@@ -1,24 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Qasim;Mobile+App+Developer;Flutter+Expert;Backend+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Qasim;Mobile+App+Developer;Flutter+Expert;Backend+Enthusiast" alt="Typing SVG" /> 
+  
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
 </h1>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" width="450"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" width="100%"/>
 </p>
 
 <div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=FahadQasim283&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0)](https://git.io/streak-stats)
 
-[![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadQasim283&theme=react-dark&bg_color=0D1117&color=7F5AF0&line=FF9E64&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadQasim283&theme=react-dark&bg_color=0D1117&color=7F5AF0&line=FF9E64&point=FFFFFF&area=true&area_color=7F5AF0&)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
