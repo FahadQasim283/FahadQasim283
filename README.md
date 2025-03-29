@@ -6,6 +6,7 @@
  I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
 Currently I am working on **Backend development**
 
+[![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadQasim283&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🏆 GitHub Achievements
 
 I am proud to showcase my GitHub accomplishments.
