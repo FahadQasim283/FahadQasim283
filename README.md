@@ -13,10 +13,6 @@
 
 [![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadQasim283&theme=react-dark&bg_color=0D1117&color=7F5AF0&line=FF9E64&point=FFFFFF&area=true&area_color=7F5AF0&custom_title=My%20GitHub%20Activity%20Graph%20(Last%201%20Year))](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&hide=prs,issues&count_private=true&theme=radical&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 <div align="center">
