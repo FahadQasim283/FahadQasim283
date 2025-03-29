@@ -1,8 +1,8 @@
-<h1 align="center" display='flex'>
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Qasim;Mobile+App+Developer;Flutter+Expert;Backend+Enthusiast" alt="Typing SVG" /> 
-  
-![Profile Views](https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&label=PROFILE+VIEWS)
 </h1>
+
+![Profile Views](https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&label=PROFILE+VIEWS)
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
