@@ -7,7 +7,10 @@
         </h1>
       </td>
       <td align="right">
+        <div>
+          
         ![Profile Views](https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&label=PROFILE+VIEWS&style=flat-square)
+        </div>
       </td>
     </tr>
   </table>
