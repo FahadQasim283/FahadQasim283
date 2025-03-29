@@ -1,21 +1,41 @@
-<h1 align='center'>Hi👋 I am Fahad Qasim</h1>
+<div align="center">
+  <h1 style="font-family: 'Chakra Petch', sans-serif; font-weight: 700; position: relative">
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Qasim;Mobile+App+Developer;Flutter+Expert;Backend+Enthusiast&google_fonts=Chakra+Petch" alt="Typing SVG" />
+    <div style="position: absolute; right: 0; top: 0">
+      <img src="https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&style=flat-square&label=PROFILE+VIEWS" />
+    </div>
+  </h1>
+</div>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg=transparent" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
 </p>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=FahadQasim283&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0)](https://git.io/streak-stats)
 
- I'm a **Mobile App Developer** with expertise in **Flutter**. I'm passionate about building intuitive, scalable, and efficient solutions to real-world problems.
-Currently I am working on **Backend development**
+[![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadQasim283&theme=react-dark&bg_color=0D1117&color=7F5AF0&line=FF9E64&point=FFFFFF&area=true&area_color=7F5AF0&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadQasim283&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FahadQasim283&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=FahadQasim283&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)
+</div>
 
 ## 🏆 GitHub Achievements
-
 I am proud to showcase my GitHub accomplishments.
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahadQasim283&theme=juicyfresh&margin-w=15&column=5&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=FahadQasim283&theme=onedark&margin-w=15&column=5&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react,nodejs,go,html,css,js,php,firebase,mysql,postgres,mongodb,git,vscode&theme=dark&perline=8" alt="Tech Stack" />
+</p>
+
+## 📊 GitHub Analytics
+<div align="center">
+  
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=FF9E64&text_color=FFFFFF&custom_title=Development+Activity" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=FFFFFF&langs_count=8" /> |
+| ------------- | ------------- |
+
 </div>
 
 ## 🚀 About Me
@@ -52,53 +72,26 @@ I am proud to showcase my GitHub accomplishments.
   - Database design and implementation
   - Currently exploring Node.js and Golang
 
-## 🛠 Technologies & Tools
-<p align="left">
-<!-- Mobile Development -->
-<a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<!-- Web Development -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<!-- Backend -->
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<!-- Data bases -->
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-</a>
-<a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="androidstudio" width="40" height="40"/> </a>
-</p>
 
-## 📊 GitHub Statistics
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=dark&count_private=true&line_height=27&hide_rank=false&custom_title=My%20GitHub%20Statistics&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats Extended" />
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&langs_count=20&hide=none&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFA500&border_color=FFA500" alt="Custom Colors" />
-  </div>
-</p>
+## 📬 Connect With Me
+<p align="center"> <a href="mailto:fahadqasim3310@mail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/fahad-qasim-6926b3270"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/FahadQasim283"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
+##🔥 Recent Highlights
+🚀 Developed production-grade Flutter applications
 
-## ✨ Contributions & Projects I'm Proud Of
-- 🚀 Built several cross-platform mobile apps for my local and international clients.      
+📱 Implemented complex UI/UX designs with animations
 
-## 🤝 How to Reach Me
-- 📧 **Email**: [fahadqasim3310@mail.com](mailto:fahadqasim3310@mail.com)
-- 💼 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-qasim-6926b3270)
+🔧 Optimized backend services for 40% performance boost
 
-## 🛠 Get Involved & Collaborate
-I'm always looking to collaborate on innovative projects. If you have an idea, let's discuss and build something impactful together!
+🤝 Collaborated on cross-functional agile teams
 
----
-✨ *Let's code the future together!* 🚀
-```
+🌟 Featured Projects
+E-Commerce Flutter App
+Flutter Firebase State Management
+Scalable mobile marketplace with payment integration
+
+Real-time Chat Application
+Node.js WebSocket MongoDB
+Instant messaging platform with E2E encryption
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality+through+code+%F0%9F%92%BB;Open+for+collaborations+%F0%9F%92%AC;Let's+build+something+amazing+%F0%9F%9A%80;Innovation+meets+execution+%E2%9C%A8" alt="Typing SVG" /> </p> 
