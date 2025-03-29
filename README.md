@@ -22,7 +22,9 @@
 ## 🏆 GitHub Achievements
 I am proud to showcase my GitHub accomplishments.
 <div align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=FahadQasim283&theme=onedark&margin-w=15&column=5&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ## 💻 Tech Stack
