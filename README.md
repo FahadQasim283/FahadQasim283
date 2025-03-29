@@ -1,5 +1,4 @@
 <h1 align='center'>Hi👋 I am Fahad Qasim</h1>
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg=transparent" alt="Dev Quote" />
 </p>
