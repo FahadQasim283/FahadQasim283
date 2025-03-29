@@ -1,12 +1,11 @@
 <div align="center">
-  <h1 style="font-family: 'Chakra Petch', sans-serif; position: relative">
-    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Qasim;Mobile+App+Developer;Flutter+Expert;Backend+Enthusiast" alt="Typing SVG" />
+  <h1 style="font-family: 'Chakra Petch', sans-serif; font-weight: 700; position: relative">
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Qasim;Mobile+App+Developer;Flutter+Expert;Backend+Enthusiast&google_fonts=Chakra+Petch" alt="Typing SVG" />
     <div style="position: absolute; right: 0; top: 0">
       <img src="https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&style=flat-square&label=PROFILE+VIEWS" />
     </div>
   </h1>
 </div>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
 </p>
