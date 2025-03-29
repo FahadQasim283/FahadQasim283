@@ -8,6 +8,8 @@ Currently I am working on **Backend development**
 
 [![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadQasim283&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FahadQasim283&theme=dark)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=FahadQasim283&color=blue)
+
 
 ## 🏆 GitHub Achievements
 
