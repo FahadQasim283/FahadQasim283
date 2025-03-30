@@ -27,7 +27,7 @@ I am proud to showcase my GitHub accomplishments.
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react,nodejs,go,html,css,js,php,firebase,mysql,postgres,mongodb,git,vscode&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,reactnative,expo,nodejs,go,html,css,js,php,firebase,mysql,postgres,mongodb,git,vscode&theme=dark&perline=8" alt="Tech Stack" />
 </p>
 
 ## 📊 GitHub Analytics
