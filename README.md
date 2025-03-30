@@ -75,7 +75,7 @@ I am proud to showcase my GitHub accomplishments.
 ## 🔥 Recent Highlights
 - 🚀 Developed production-grade Flutter applications
 - 📱 Implemented complex UI/UX designs with animations
-- 🔧 Optimized backend services for 40% performance boost
+- 🔧 Optimized FirebaseFirestore for cost reduction and performance boost
 - 🤝 Collaborated on cross-functional agile teams
 
 ## 🌟 Featured Projects
