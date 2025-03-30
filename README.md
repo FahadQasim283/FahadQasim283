@@ -72,26 +72,23 @@ I am proud to showcase my GitHub accomplishments.
   - Database design and implementation
   - Currently exploring Node.js and Golang
 
+## 🔥 Recent Highlights
+## 🚀 Developed production-grade Flutter applications
+
+## 📱 Implemented complex UI/UX designs with animations
+
+## 🔧 Optimized backend services for 40% performance boost
+
+## 🤝 Collaborated on cross-functional agile teams
+
+## 🌟 Featured Projects
+- E-Commerce Flutter App
+- IOT-based applications
+- AI Powered Apps
+- Services Provider App
 
 ## 📬 Connect With Me
 <p align="center"> <a href="mailto:fahadqasim3310@mail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/fahad-qasim-6926b3270"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/FahadQasim283"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
-##🔥 Recent Highlights
-🚀 Developed production-grade Flutter applications
-
-📱 Implemented complex UI/UX designs with animations
-
-🔧 Optimized backend services for 40% performance boost
-
-🤝 Collaborated on cross-functional agile teams
-
-🌟 Featured Projects
-E-Commerce Flutter App
-Flutter Firebase State Management
-Scalable mobile marketplace with payment integration
-
-Real-time Chat Application
-Node.js WebSocket MongoDB
-Instant messaging platform with E2E encryption
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Turning+ideas+into+reality+through+code+%F0%9F%92%BB;Open+for+collaborations+%F0%9F%92%AC;Let's+build+something+amazing+%F0%9F%9A%80;Innovation+meets+execution+%E2%9C%A8" alt="Typing SVG" /> </p> 
