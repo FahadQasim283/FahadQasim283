@@ -10,10 +10,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="100%"/>
 </p>
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=FahadQasim283&theme=nightowl&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=FahadQasim283&theme=nightowl&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=daily&hide_total=false&hide_current=false&hide_longest=false&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0)](https://git.io/streak-stats)
 
+| <img align="center" width="400" src="https://streak-stats.demolab.com?user=FahadQasim283&theme=nightowl&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0" /> | <img align="center" width="400" src="https://streak-stats.demolab.com?user=FahadQasim283&theme=nightowl&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&mode=daily&hide_total=false&hide_current=false&hide_longest=false&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0" /> |
+| ------------- | ------------- |
 
 [![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadQasim283&theme=react-dark&bg_color=0D1117&color=7F5AF0&line=FF9E64&point=FFFFFF&area=true&area_color=7F5AF0&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
