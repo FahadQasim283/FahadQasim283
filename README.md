@@ -13,6 +13,9 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=FahadQasim283&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=FahadQasim283&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0D1117&border=7F5AF0&stroke=7F5AF0&ring=7F5AF0&fire=FF9E64&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F5AF0&sideLabels=7F5AF0)](https://git.io/streak-stats)
+
+
 [![Fahad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahadQasim283&theme=react-dark&bg_color=0D1117&color=7F5AF0&line=FF9E64&point=FFFFFF&area=true&area_color=7F5AF0&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
