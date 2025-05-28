@@ -4,7 +4,7 @@
     <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 10px;">
   <!-- Portfolio Button -->
   <a href="https://fahadqasim283-portfolio.web.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit Portfolio-%23007ACC?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a1a" alt="Portfolio Badge" />
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Visit+Now&color=7F5AF0&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
   </a>
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=FahadQasim283&color=7F5AF0&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
