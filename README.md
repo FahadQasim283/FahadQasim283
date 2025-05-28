@@ -1,4 +1,7 @@
 <div align="center">
+  <div align="center-left"><a href="https://fahadqasim283-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a></div>
   <h1 style="font-family: 'Chakra Petch', sans-serif; font-weight: 700; position: relative">
     <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch:wght@700&size=30&duration=4000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahad+Qasim;Mobile+App+Developer;Flutter+Expert;Backend+Enthusiast&google_fonts=Chakra+Petch" alt="Typing SVG" />
     <div style="position: absolute; right: 0; top: 0">
