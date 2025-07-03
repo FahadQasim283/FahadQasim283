@@ -179,12 +179,10 @@
     </div>
   </div>
 </div>
-
 <!-- Footer -->
 <div align="center" style="margin: 40px 0;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=✨+Turning+ideas+into+reality+through+code+💻;🤝+Open+for+collaborations+and+opportunities;🚀+Let's+build+something+amazing+together;💡+Innovation+meets+execution" alt="Typing SVG" />
 </div>
-
 <div align="center" style="margin-top: 30px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
