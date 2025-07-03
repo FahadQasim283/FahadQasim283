@@ -97,62 +97,138 @@
   <h2>💼 Professional Experience</h2>
 </div>
 
-### 📱 Mobile Development
-- **Flutter with Clean Architecture**
-- **React Native basics** 
-- **UI/UX implementation**
-- **State management (Provider, Riverpod)**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### 🌐 Web Development  
-- **Frontend (HTML, CSS, JavaScript)**
-- **Basic PHP development**
-- **Responsive design**
-- **Modern web technologies**
+**📱 Mobile Development**
+- Flutter with Clean Architecture
+- React Native basics 
+- UI/UX implementation
+- State management (Provider, Riverpod)
+- Cross-platform optimization
 
-### ⚙️ Backend Development
-- **REST API development**
-- **Firebase Realtime DB**
-- **Firebase Firestore** 
-- **Database design**
+</td>
+<td width="33%" valign="top">
+
+**🌐 Web Development**
+- Frontend (HTML, CSS, JavaScript)
+- React.js fundamentals
+- Responsive design
+- Modern web technologies
+- Progressive Web Apps
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Backend Development**
+- REST API development
+- Firebase Realtime DB
+- Firebase Firestore
+- Database design
+- Node.js basics
+
+</td>
+</tr>
+</table>
 
 <!-- Featured Projects -->
 <div align="center">
   <h2>🌟 Featured Projects</h2>
 </div>
 
-### 🛒 E-Commerce Flutter App
-Complete shopping solution with advanced features including payment integration, user authentication, and real-time order tracking.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🏠 IoT-Based Applications  
-Smart home automation solutions with real-time device control and monitoring capabilities.
+### 🛒 E-Commerce Flutter App
+> Complete shopping solution with advanced features including payment integration, user authentication, and real-time order tracking.
+
+**Key Features:**
+- 🔐 User Authentication
+- 💳 Payment Integration  
+- 📦 Order Tracking
+- 🛍️ Shopping Cart
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 IoT-Based Applications
+> Smart home automation solutions with real-time device control and monitoring capabilities.
+
+**Key Features:**
+- 🌡️ Temperature Control
+- 💡 Smart Lighting
+- 📱 Mobile Control
+- 📊 Real-time Monitoring
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI Powered Apps
-Machine learning integrated mobile applications with intelligent features and predictive analytics.
+> Machine learning integrated mobile applications with intelligent features and predictive analytics.
+
+**Key Features:**
+- 🧠 ML Integration
+- 📈 Predictive Analytics
+- 🎯 Smart Recommendations
+- 🔍 Data Analysis
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔧 Services Provider App
-On-demand service marketplace connecting service providers with customers efficiently.
+> On-demand service marketplace connecting service providers with customers efficiently.
+
+**Key Features:**
+- 👥 User Matching
+- 📍 Location Services
+- ⭐ Rating System
+- 💬 In-app Chat
+
+</td>
+</tr>
+</table>
 
 <!-- Recent Highlights -->
 <div align="center">
   <h2>🔥 Recent Highlights</h2>
 </div>
 
-### 🚀 Production Apps
-Successfully developed and deployed production-grade Flutter applications with scalable architecture.
+| 🚀 **Production Apps** | 🎨 **Complex UI/UX** |
+|:---|:---|
+| Successfully developed and deployed production-grade Flutter applications with scalable architecture. | Implemented advanced UI designs with smooth animations and enhanced user experience. |
 
-### 🎨 Complex UI/UX
-Implemented advanced UI designs with smooth animations and enhanced user experience.
+| ⚡ **Performance Optimization** | 🤝 **Team Collaboration** |
+|:---|:---|
+| Optimized Firebase Firestore queries resulting in significant cost reduction and performance improvements. | Actively contributed to cross-functional agile teams with effective communication and code reviews. |
 
-### ⚡ Performance Optimization  
-Optimized Firebase Firestore queries resulting in significant cost reduction and performance improvements.
+---
 
-### 🤝 Team Collaboration
-Actively contributed to cross-functional agile teams with effective communication and code reviews.
+### 📈 **Current Learning Journey**
+```
+🌱 Advanced Flutter → State Management (Bloc, Riverpod)
+🤖 AI Integration → TensorFlow Lite, ML Kit
+🚀 Backend → Node.js, Express.js
+⚡ Languages → Golang, Python
+☁️ Cloud → AWS, Google Cloud
+```
 
 <!-- Footer -->
-<div align="center" style="margin: 50px 0 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=✨+Turning+ideas+into+reality+through+code+💻;🤝+Open+for+collaborations+and+opportunities;🚀+Let's+build+something+amazing+together;💡+Innovation+meets+execution" />
+<div align="center">
+  <h2>✨ Let's Connect & Collaborate</h2>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=50&lines=Turning+ideas+into+reality+through+code;Open+for+collaborations+and+opportunities;Let's+build+something+amazing+together" alt="Footer Typing SVG" />
+  
+  <br><br>
+  
+  **🌟 "Code is poetry written in logic" 🌟**
+  
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&animation=fadeIn" width="100%"/>
