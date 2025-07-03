@@ -13,13 +13,13 @@
   <h2 style="color: #00D9FF; font-size: 24px; margin-bottom: 15px;">🌐 Quick Connect & Explore</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://fahadqasim283-portfolio.web.app/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?label=🚀+Portfolio&message=Live+Demo&color=00D9FF&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
+      <img src="https://img.shields.io/badge/🚀_Portfolio-Live_Demo-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:fahadqasim3310@mail.com">
-      <img src="https://img.shields.io/badge/📧+Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/fahad-qasim-6926b3270">
-      <img src="https://img.shields.io/badge/💼+LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=FahadQasim283&color=00D9FF&style=for-the-badge&label=👁️+VISITORS" alt="Profile Views" />
   </div>
@@ -28,25 +28,25 @@
 <!-- About Me Section -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #FF6B6B; font-size: 24px; margin-bottom: 20px;">🚀 About Me</h2>
-  <table style="border: none; margin: 0 auto;">
+  <table style="border: none; margin: 0 auto; width: 90%; max-width: 1000px;">
     <tr>
-      <td style="padding: 20px; border: 2px solid #00D9FF; border-radius: 15px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%);">
-        <h3 style="color: #00D9FF; margin-bottom: 15px;">💻 Technical Expertise</h3>
-        <ul style="text-align: left; color: #FFFFFF;">
-          <li>🛠 <strong>Mobile Development</strong>: Flutter, React Native</li>
-          <li>📱 <strong>Cross-Platform</strong>: Flutter with Clean Architecture</li>
-          <li>🗂 <strong>Backend Services</strong>: REST APIs, Firebase, Database Design</li>
-          <li>🔒 <strong>Focus</strong>: Scalable architectures, Clean code practices</li>
-        </ul>
+      <td style="padding: 20px; border: 2px solid #00D9FF; border-radius: 15px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); width: 50%;">
+        <h3 style="color: #00D9FF; margin-bottom: 15px; text-align: center;">💻 Technical Expertise</h3>
+        <div style="text-align: left; color: #FFFFFF;">
+          <p><strong>🛠 Mobile Development:</strong> Flutter, React Native</p>
+          <p><strong>📱 Cross-Platform:</strong> Flutter with Clean Architecture</p>
+          <p><strong>🗂 Backend Services:</strong> REST APIs, Firebase, Database Design</p>
+          <p><strong>🔒 Focus:</strong> Scalable architectures, Clean code practices</p>
+        </div>
       </td>
-      <td style="padding: 20px; border: 2px solid #FF6B6B; border-radius: 15px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%);">
-        <h3 style="color: #FF6B6B; margin-bottom: 15px;">🎯 Current Focus</h3>
-        <ul style="text-align: left; color: #FFFFFF;">
-          <li>🌱 Advanced Flutter state management</li>
-          <li>🤖 AI integration in mobile apps</li>
-          <li>🚀 Node.js backend development</li>
-          <li>⚡ Golang for high-performance services</li>
-        </ul>
+      <td style="padding: 20px; border: 2px solid #FF6B6B; border-radius: 15px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); width: 50%;">
+        <h3 style="color: #FF6B6B; margin-bottom: 15px; text-align: center;">🎯 Current Focus</h3>
+        <div style="text-align: left; color: #FFFFFF;">
+          <p><strong>🌱 Advanced Flutter:</strong> State management exploration</p>
+          <p><strong>🤖 AI Integration:</strong> Machine learning in mobile apps</p>
+          <p><strong>🚀 Node.js:</strong> Backend development journey</p>
+          <p><strong>⚡ Golang:</strong> High-performance services</p>
+        </div>
       </td>
     </tr>
   </table>
@@ -95,61 +95,60 @@
 <!-- Professional Experience -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #FF9FF3; font-size: 24px; margin-bottom: 20px;">💼 Professional Experience</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <!-- Mobile Development Card -->
-    <div style="border: 2px solid #FF9FF3; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); max-width: 300px;">
-      <h3 style="color: #FF9FF3; margin-bottom: 15px;">📱 Mobile Development</h3>
-      <ul style="text-align: left; color: #FFFFFF;">
-        <li>Flutter with Clean Architecture</li>
-        <li>React Native basics</li>
-        <li>UI/UX implementation</li>
-        <li>State management (Provider, Riverpod)</li>
-      </ul>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 1200px; margin: 0 auto;">
+        <!-- Mobile Development Card -->
+    <div style="border: 2px solid #FF9FF3; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); flex: 1; min-width: 300px; max-width: 350px;">
+      <h3 style="color: #FF9FF3; margin-bottom: 15px; text-align: center;">📱 Mobile Development</h3>
+      <div style="text-align: left; color: #FFFFFF;">
+        <p><strong>•</strong> Flutter with Clean Architecture</p>
+        <p><strong>•</strong> React Native basics</p>
+        <p><strong>•</strong> UI/UX implementation</p>
+        <p><strong>•</strong> State management (Provider, Riverpod)</p>
+      </div>
     </div>
-    <!-- Web Development Card -->
-    <div style="border: 2px solid #54A0FF; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); max-width: 300px;">
-      <h3 style="color: #54A0FF; margin-bottom: 15px;">🌐 Web Development</h3>
-      <ul style="text-align: left; color: #FFFFFF;">
-        <li>Frontend (HTML, CSS, JavaScript)</li>
-        <li>Basic PHP development</li>
-        <li>Responsive design</li>
-        <li>Modern web technologies</li>
-      </ul>
+        <!-- Web Development Card -->
+    <div style="border: 2px solid #54A0FF; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); flex: 1; min-width: 300px; max-width: 350px;">
+      <h3 style="color: #54A0FF; margin-bottom: 15px; text-align: center;">🌐 Web Development</h3>
+      <div style="text-align: left; color: #FFFFFF;">
+        <p><strong>•</strong> Frontend (HTML, CSS, JavaScript)</p>
+        <p><strong>•</strong> Basic PHP development</p>
+        <p><strong>•</strong> Responsive design</p>
+        <p><strong>•</strong> Modern web technologies</p>
+      </div>
     </div>
-    <!-- Backend Development Card -->
-    <div style="border: 2px solid #5F27CD; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); max-width: 300px;">
-      <h3 style="color: #5F27CD; margin-bottom: 15px;">⚙️ Backend Development</h3>
-      <ul style="text-align: left; color: #FFFFFF;">
-        <li>REST API development</li>
-        <li>Firebase Realtime DB</li>
-        <li>Firebase Firestore</li>
-        <li>Database design</li>
-      </ul>
+      <!-- Backend Development Card -->
+    <div style="border: 2px solid #5F27CD; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); flex: 1; min-width: 300px; max-width: 350px;">
+      <h3 style="color: #5F27CD; margin-bottom: 15px; text-align: center;">⚙️ Backend Development</h3>
+      <div style="text-align: left; color: #FFFFFF;">
+        <p><strong>•</strong> REST API development</p>
+        <p><strong>•</strong> Firebase Realtime DB</p>
+        <p><strong>•</strong> Firebase Firestore</p>
+        <p><strong>•</strong> Database design</p>
+      </div>
     </div>
-    
-  </div>
+      </div>
 </div>
 
 <!-- Featured Projects -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #FFA502; font-size: 24px; margin-bottom: 20px;">🌟 Featured Projects</h2>
-  <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 20px; border-radius: 15px; border: 2px solid #FFA502;">
-    <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-      <div style="text-align: center; color: #FFFFFF;">
-        <h3 style="color: #FFA502;">🛒 E-Commerce Flutter App</h3>
-        <p>Complete shopping solution with advanced features</p>
+  <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 20px; border-radius: 15px; border: 2px solid #FFA502; max-width: 1200px; margin: 0 auto;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">
+      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 165, 2, 0.1); border: 1px solid #FFA502;">
+        <h3 style="color: #FFA502; text-align: center;">🛒 E-Commerce Flutter App</h3>
+        <p style="text-align: left; margin: 10px 0;">Complete shopping solution with advanced features including payment integration, user authentication, and real-time order tracking.</p>
       </div>
-      <div style="text-align: center; color: #FFFFFF;">
-        <h3 style="color: #FFA502;">🏠 IoT-Based Applications</h3>
-        <p>Smart home automation solutions</p>
+      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 165, 2, 0.1); border: 1px solid #FFA502;">
+        <h3 style="color: #FFA502; text-align: center;">🏠 IoT-Based Applications</h3>
+        <p style="text-align: left; margin: 10px 0;">Smart home automation solutions with real-time device control and monitoring capabilities.</p>
       </div>
-      <div style="text-align: center; color: #FFFFFF;">
-        <h3 style="color: #FFA502;">🤖 AI Powered Apps</h3>
-        <p>Machine learning integrated mobile apps</p>
+      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 165, 2, 0.1); border: 1px solid #FFA502;">
+        <h3 style="color: #FFA502; text-align: center;">🤖 AI Powered Apps</h3>
+        <p style="text-align: left; margin: 10px 0;">Machine learning integrated mobile applications with intelligent features and predictive analytics.</p>
       </div>
-      <div style="text-align: center; color: #FFFFFF;">
-        <h3 style="color: #FFA502;">🔧 Services Provider App</h3>
-        <p>On-demand service marketplace</p>
+      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 165, 2, 0.1); border: 1px solid #FFA502;">
+        <h3 style="color: #FFA502; text-align: center;">🔧 Services Provider App</h3>
+        <p style="text-align: left; margin: 10px 0;">On-demand service marketplace connecting service providers with customers efficiently.</p>
       </div>
     </div>
   </div>
@@ -158,31 +157,33 @@
 <!-- Recent Highlights -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #FF3838; font-size: 24px; margin-bottom: 20px;">🔥 Recent Highlights</h2>
-  <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 20px; border-radius: 15px; border: 2px solid #FF3838;">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; color: #FFFFFF;">
-      <div style="text-align: center;">
-        <h3 style="color: #FF3838;">🚀 Production Apps</h3>
-        <p>Developed production-grade Flutter applications</p>
+  <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 20px; border-radius: 15px; border: 2px solid #FF3838; max-width: 1200px; margin: 0 auto;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 56, 56, 0.1); border: 1px solid #FF3838;">
+        <h3 style="color: #FF3838; text-align: center;">🚀 Production Apps</h3>
+        <p style="text-align: left; margin: 10px 0;">Successfully developed and deployed production-grade Flutter applications with scalable architecture.</p>
       </div>
-      <div style="text-align: center;">
-        <h3 style="color: #FF3838;">🎨 Complex UI/UX</h3>
-        <p>Implemented advanced designs with animations</p>
+      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 56, 56, 0.1); border: 1px solid #FF3838;">
+        <h3 style="color: #FF3838; text-align: center;">🎨 Complex UI/UX</h3>
+        <p style="text-align: left; margin: 10px 0;">Implemented advanced UI designs with smooth animations and enhanced user experience.</p>
       </div>
-      <div style="text-align: center;">
-        <h3 style="color: #FF3838;">⚡ Performance Optimization</h3>
-        <p>Optimized Firestore for cost and performance</p>
+      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 56, 56, 0.1); border: 1px solid #FF3838;">
+        <h3 style="color: #FF3838; text-align: center;">⚡ Performance Optimization</h3>
+        <p style="text-align: left; margin: 10px 0;">Optimized Firebase Firestore queries resulting in significant cost reduction and performance improvements.</p>
       </div>
-      <div style="text-align: center;">
-        <h3 style="color: #FF3838;">🤝 Team Collaboration</h3>
-        <p>Worked with cross-functional agile teams</p>
+      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 56, 56, 0.1); border: 1px solid #FF3838;">
+        <h3 style="color: #FF3838; text-align: center;">🤝 Team Collaboration</h3>
+        <p style="text-align: left; margin: 10px 0;">Actively contributed to cross-functional agile teams with effective communication and code reviews.</p>
       </div>
     </div>
   </div>
 </div>
+
 <!-- Footer -->
-<div align="center" style="margin: 40px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=✨+Turning+ideas+into+reality+through+code+💻;🤝+Open+for+collaborations+and+opportunities;🚀+Let's+build+something+amazing+together;💡+Innovation+meets+execution" alt="Typing SVG" />
+<div align="center" style="margin: 50px 0 20px 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=✨+Turning+ideas+into+reality+through+code+💻;🤝+Open+for+collaborations+and+opportunities;🚀+Let's+build+something+amazing+together;💡+Innovation+meets+execution" />
 </div>
-<div align="center" style="margin-top: 30px;">
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
