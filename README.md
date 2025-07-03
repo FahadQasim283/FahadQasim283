@@ -96,7 +96,6 @@
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #FF9FF3; font-size: 24px; margin-bottom: 20px;">💼 Professional Experience</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    
     <!-- Mobile Development Card -->
     <div style="border: 2px solid #FF9FF3; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); max-width: 300px;">
       <h3 style="color: #FF9FF3; margin-bottom: 15px;">📱 Mobile Development</h3>
@@ -107,7 +106,6 @@
         <li>State management (Provider, Riverpod)</li>
       </ul>
     </div>
-    
     <!-- Web Development Card -->
     <div style="border: 2px solid #54A0FF; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); max-width: 300px;">
       <h3 style="color: #54A0FF; margin-bottom: 15px;">🌐 Web Development</h3>
@@ -118,7 +116,6 @@
         <li>Modern web technologies</li>
       </ul>
     </div>
-    
     <!-- Backend Development Card -->
     <div style="border: 2px solid #5F27CD; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); max-width: 300px;">
       <h3 style="color: #5F27CD; margin-bottom: 15px;">⚙️ Backend Development</h3>
