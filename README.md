@@ -93,91 +93,61 @@
 </div>
 
 <!-- Professional Experience -->
-<div align="center" style="margin: 40px 0;">
-  <h2 style="color: #FF9FF3; font-size: 24px; margin-bottom: 20px;">💼 Professional Experience</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 1200px; margin: 0 auto;">
-        <!-- Mobile Development Card -->
-    <div style="border: 2px solid #FF9FF3; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); flex: 1; min-width: 300px; max-width: 350px;">
-      <h3 style="color: #FF9FF3; margin-bottom: 15px; text-align: center;">📱 Mobile Development</h3>
-      <div style="text-align: left; color: #FFFFFF;">
-        <p><strong>•</strong> Flutter with Clean Architecture</p>
-        <p><strong>•</strong> React Native basics</p>
-        <p><strong>•</strong> UI/UX implementation</p>
-        <p><strong>•</strong> State management (Provider, Riverpod)</p>
-      </div>
-    </div>
-        <!-- Web Development Card -->
-    <div style="border: 2px solid #54A0FF; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); flex: 1; min-width: 300px; max-width: 350px;">
-      <h3 style="color: #54A0FF; margin-bottom: 15px; text-align: center;">🌐 Web Development</h3>
-      <div style="text-align: left; color: #FFFFFF;">
-        <p><strong>•</strong> Frontend (HTML, CSS, JavaScript)</p>
-        <p><strong>•</strong> Basic PHP development</p>
-        <p><strong>•</strong> Responsive design</p>
-        <p><strong>•</strong> Modern web technologies</p>
-      </div>
-    </div>
-      <!-- Backend Development Card -->
-    <div style="border: 2px solid #5F27CD; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); flex: 1; min-width: 300px; max-width: 350px;">
-      <h3 style="color: #5F27CD; margin-bottom: 15px; text-align: center;">⚙️ Backend Development</h3>
-      <div style="text-align: left; color: #FFFFFF;">
-        <p><strong>•</strong> REST API development</p>
-        <p><strong>•</strong> Firebase Realtime DB</p>
-        <p><strong>•</strong> Firebase Firestore</p>
-        <p><strong>•</strong> Database design</p>
-      </div>
-    </div>
-      </div>
+<div align="center">
+  <h2>💼 Professional Experience</h2>
 </div>
+
+### 📱 Mobile Development
+- **Flutter with Clean Architecture**
+- **React Native basics** 
+- **UI/UX implementation**
+- **State management (Provider, Riverpod)**
+
+### 🌐 Web Development  
+- **Frontend (HTML, CSS, JavaScript)**
+- **Basic PHP development**
+- **Responsive design**
+- **Modern web technologies**
+
+### ⚙️ Backend Development
+- **REST API development**
+- **Firebase Realtime DB**
+- **Firebase Firestore** 
+- **Database design**
 
 <!-- Featured Projects -->
-<div align="center" style="margin: 40px 0;">
-  <h2 style="color: #FFA502; font-size: 24px; margin-bottom: 20px;">🌟 Featured Projects</h2>
-  <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 20px; border-radius: 15px; border: 2px solid #FFA502; max-width: 1200px; margin: 0 auto;">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">
-      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 165, 2, 0.1); border: 1px solid #FFA502;">
-        <h3 style="color: #FFA502; text-align: center;">🛒 E-Commerce Flutter App</h3>
-        <p style="text-align: left; margin: 10px 0;">Complete shopping solution with advanced features including payment integration, user authentication, and real-time order tracking.</p>
-      </div>
-      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 165, 2, 0.1); border: 1px solid #FFA502;">
-        <h3 style="color: #FFA502; text-align: center;">🏠 IoT-Based Applications</h3>
-        <p style="text-align: left; margin: 10px 0;">Smart home automation solutions with real-time device control and monitoring capabilities.</p>
-      </div>
-      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 165, 2, 0.1); border: 1px solid #FFA502;">
-        <h3 style="color: #FFA502; text-align: center;">🤖 AI Powered Apps</h3>
-        <p style="text-align: left; margin: 10px 0;">Machine learning integrated mobile applications with intelligent features and predictive analytics.</p>
-      </div>
-      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 165, 2, 0.1); border: 1px solid #FFA502;">
-        <h3 style="color: #FFA502; text-align: center;">🔧 Services Provider App</h3>
-        <p style="text-align: left; margin: 10px 0;">On-demand service marketplace connecting service providers with customers efficiently.</p>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <h2>🌟 Featured Projects</h2>
 </div>
 
+### 🛒 E-Commerce Flutter App
+Complete shopping solution with advanced features including payment integration, user authentication, and real-time order tracking.
+
+### 🏠 IoT-Based Applications  
+Smart home automation solutions with real-time device control and monitoring capabilities.
+
+### 🤖 AI Powered Apps
+Machine learning integrated mobile applications with intelligent features and predictive analytics.
+
+### 🔧 Services Provider App
+On-demand service marketplace connecting service providers with customers efficiently.
+
 <!-- Recent Highlights -->
-<div align="center" style="margin: 40px 0;">
-  <h2 style="color: #FF3838; font-size: 24px; margin-bottom: 20px;">🔥 Recent Highlights</h2>
-  <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 20px; border-radius: 15px; border: 2px solid #FF3838; max-width: 1200px; margin: 0 auto;">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 56, 56, 0.1); border: 1px solid #FF3838;">
-        <h3 style="color: #FF3838; text-align: center;">🚀 Production Apps</h3>
-        <p style="text-align: left; margin: 10px 0;">Successfully developed and deployed production-grade Flutter applications with scalable architecture.</p>
-      </div>
-      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 56, 56, 0.1); border: 1px solid #FF3838;">
-        <h3 style="color: #FF3838; text-align: center;">🎨 Complex UI/UX</h3>
-        <p style="text-align: left; margin: 10px 0;">Implemented advanced UI designs with smooth animations and enhanced user experience.</p>
-      </div>
-      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 56, 56, 0.1); border: 1px solid #FF3838;">
-        <h3 style="color: #FF3838; text-align: center;">⚡ Performance Optimization</h3>
-        <p style="text-align: left; margin: 10px 0;">Optimized Firebase Firestore queries resulting in significant cost reduction and performance improvements.</p>
-      </div>
-      <div style="color: #FFFFFF; padding: 15px; border-radius: 10px; background: rgba(255, 56, 56, 0.1); border: 1px solid #FF3838;">
-        <h3 style="color: #FF3838; text-align: center;">🤝 Team Collaboration</h3>
-        <p style="text-align: left; margin: 10px 0;">Actively contributed to cross-functional agile teams with effective communication and code reviews.</p>
-      </div>
-    </div>
-  </div>
+<div align="center">
+  <h2>🔥 Recent Highlights</h2>
 </div>
+
+### 🚀 Production Apps
+Successfully developed and deployed production-grade Flutter applications with scalable architecture.
+
+### 🎨 Complex UI/UX
+Implemented advanced UI designs with smooth animations and enhanced user experience.
+
+### ⚡ Performance Optimization  
+Optimized Firebase Firestore queries resulting in significant cost reduction and performance improvements.
+
+### 🤝 Team Collaboration
+Actively contributed to cross-functional agile teams with effective communication and code reviews.
 
 <!-- Footer -->
 <div align="center" style="margin: 50px 0 20px 0;">
