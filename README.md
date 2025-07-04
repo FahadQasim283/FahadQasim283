@@ -161,12 +161,11 @@
 - 💡 Smart Lighting
 - 📱 Mobile Control
 - 📊 Real-time Monitoring
-
+- 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
 ### 🤖 AI Powered Apps
 > Machine learning integrated mobile applications with intelligent features and predictive analytics.
 
@@ -208,13 +207,12 @@
 ---
 
 ### 📈 **Current Learning Journey**
-```
+
 🌱 Advanced Flutter → State Management (Bloc, Riverpod)
 🤖 AI Integration → TensorFlow Lite, ML Kit
 🚀 Backend → Node.js, Express.js
 ⚡ Languages → Golang, Python
 ☁️ Cloud → AWS, Google Cloud
-```
 
 <!-- Footer -->
 <div align="center">
