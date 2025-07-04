@@ -208,11 +208,11 @@
 
 ### 📈 **Current Learning Journey**
 
-🌱 Advanced Flutter → State Management (Bloc, Riverpod)
-🤖 AI Integration → TensorFlow Lite, ML Kit
-🚀 Backend → Node.js, Express.js
-⚡ Languages → Golang, Python
-☁️ Cloud → AWS, Google Cloud
+- 🌱 Advanced Flutter → State Management (Bloc, Riverpod)
+- 🤖 AI Integration → TensorFlow Lite, ML Kit
+- 🚀 Backend → Node.js, Express.js
+- ⚡ Languages → Golang, Python
+- ☁️ Cloud → AWS, Google Cloud
 
 <!-- Footer -->
 <div align="center">
