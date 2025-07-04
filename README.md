@@ -166,7 +166,9 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
+  
 ### 🤖 AI Powered Apps
+
 > Machine learning integrated mobile applications with intelligent features and predictive analytics.
 
 **Key Features:**
