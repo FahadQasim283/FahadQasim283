@@ -98,7 +98,7 @@
 </div>
 
 <table>
-<tr>
+<tr width='100%'>
 <td width="33%" valign="top">
 
 **📱 Mobile Development**
