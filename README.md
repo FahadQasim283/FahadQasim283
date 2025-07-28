@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/🚀_Portfolio-Live_Demo-00077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:fahadqasim3310@mail.com">
-      <img src="https://img.shields.io/badge/📧_Email-Contact_Me-0F14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/📧_Email-Contact_Me-0014346?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/fahad-qasim-6926b3270">
       <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
