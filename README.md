@@ -13,15 +13,15 @@
   <h2 style="color: #00D9FF; font-size: 24px; margin-bottom: 15px;">🌐 Quick Connect & Explore</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
     <a href="https://fahadqasim283-portfolio.web.app/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/🚀_Portfolio-Live_Demo-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/🚀_Portfolio-Live_Demo-00077B5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:fahadqasim3310@mail.com">
-      <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/📧_Email-Contact_Me-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/fahad-qasim-6926b3270">
       <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=FahadQasim283&color=00D9FF&style=for-the-badge&label=👁️+VISITORS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=FahadQasim283&color=D14836&style=for-the-badge&label=👁️+VISITORS" alt="Profile Views" />
   </div>
 </div>
 
