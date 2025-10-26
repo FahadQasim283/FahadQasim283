@@ -84,6 +84,14 @@
   </div>
 </div>
 
+### 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+</p>
+
+---
+
 <!-- Achievements Section -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #A8E6CF; font-size: 24px; margin-bottom: 20px;">🏆 GitHub Achievements</h2>
