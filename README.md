@@ -70,6 +70,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&custom_title=📈+Development+Stats" width="400" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="400" />
   </div>
+
+  <div><img src="https://leetcard.jacoblin.cool/fahadqasim283?theme=dark&font=Roboto&ext=heatmap" height="250" alt="leetcode stats"  /></div>
   
   <!-- Streak Stats -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
