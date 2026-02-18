@@ -88,7 +88,7 @@
 <div align="center" style="margin: 40px 0;">
   <h2 style="color: #A8E6CF; font-size: 24px; margin-bottom: 20px;">🏆 GitHub Achievements</h2>
   <div style="background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); padding: 20px; border-radius: 15px; border: 2px solid #A8E6CF;">
-    <img src="https://github-profile-trophy.vercel.app/?username=FahadQasim283&theme=radical&margin-w=15&column=4&margin-h=15&no-bg=true&no-frame=true" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=FahadQasim283&theme=radical&margin-w=15&column=4&margin-h=15&no-bg=true&no-frame=true" />
   </div>
 </div>
 
