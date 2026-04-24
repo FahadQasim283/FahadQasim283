@@ -71,19 +71,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="400" />
   </div>
 
-  
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fahadqasim283&"/>
-  <img src="https://img.shields.io/github/last-commit/fahadqasim283/openvid?color=brightgreen"/>
-  <img src="https://img.shields.io/badge/Repositories-26-facc15"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-  
   <!-- Streak Stats -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
     <img src="https://streak-stats.demolab.com?user=FahadQasim283&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_total_contributions=true&background=0D1117&border=00D9FF&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF" width="400" />
