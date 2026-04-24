@@ -70,6 +70,19 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FahadQasim283&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&custom_title=📈+Development+Stats" width="400" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadQasim283&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="400" />
   </div>
+
+  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fahadqasim283&"/>
+  <img src="https://img.shields.io/github/last-commit/fahadqasim283/openvid?color=brightgreen"/>
+  <img src="https://img.shields.io/badge/Repositories-26-facc15"/>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
   
   <!-- Streak Stats -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
